@@ -1,5 +1,6 @@
-👋 Hi, I'm Sohan Kumar 👨‍💻
-
+## 📊 GitHub Stats
+![Sohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohan-mechatronics&show_icons=true&theme=tokyonight)
+     👋 Hi, I'm Sohan Kumar 👨‍💻
 🎓 Mechatronics Engineering Student (2nd Year)  
 🔌 Diploma in Electrical Engineering  
 🤖 Passionate about Robotics & Automation  
@@ -12,6 +13,7 @@
 - Currently learning **Python, PLC, Embedded Systems**
 - Interested in **hands-on projects & internships**
 - Believer in continuous learning and practical implementation
+## 📊 GitHub Stats
 
 ## 🛠️ Skills & Technologies
 - ⚡ Electrical & Mechatronics Fundamentals  
