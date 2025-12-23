@@ -1,4 +1,5 @@
-![Sohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohan-mechatronics&show_icons=true&theme=tokyonight)
+[![Sohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohan-mechatronics&show_icons=true&theme=tokyonight)](https://github.com/sohan-mechatronics)
+
 
      👋 Hi, I'm Sohan Kumar 👨‍💻
 🎓 Mechatronics Engineering Student (2nd Year)  
